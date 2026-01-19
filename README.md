@@ -2,9 +2,6 @@
 
 A **Spring Boot–based microservices architecture** demonstrating **secure, scalable backend development**.
 
-![Architecture](./images/architecture-diagram.png)  
-*Diagram shows API Gateway, Service Registry, Config Server, and microservices communication.*
-
 ---
 
 ## 🛠 Tech Stack
