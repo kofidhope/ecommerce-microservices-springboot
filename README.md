@@ -40,7 +40,6 @@ A **Spring Boot–based microservices architecture** demonstrating **secure, sca
 - **JWT Authentication**: secure communication between services  
 - Dockerized services for local deployment  
 
-![Architecture Flow](./images/architecture-flow.png)
 
 ---
 
