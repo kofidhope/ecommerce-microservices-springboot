@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/auth
+    username: kofiForson
+    password: Kofidhope80
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+server:
+  port: 8010
+
+jwt:
+  secret: "C9tXyKqL5vF2zP8rN6sQ1aD7mB4jW0eT9gU3pH2oL8rJ5yC1kV7xZ3nR0qS6uE4"
